@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "ethers": "^5.7.1",
+    "simple-pancakeswap-sdk": "^1.1.1",
+    "web3": "^1.8.0"
+  }
+}
